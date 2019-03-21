@@ -16,6 +16,10 @@ BSD license, check license.txt for more information
 All text above, and the splash screen below must be included in any redistribution
 *********************************************************************/
 
+/* TODO*********************************************************************************************
+PORT to MI included i2c library. Hack out arduino framework. WIRISH is target #1.
+/*/
+
 #include <avr/pgmspace.h>
 //#ifndef __SAM3X8E__ || __STM32F1__
  //#include <util/delay.h>
